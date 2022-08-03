@@ -1,0 +1,15 @@
+D:\code\visual_studio\c#\ServerServer\bin\Debug\net6.0\ServerServer.exe
+D:\code\visual_studio\c#\ServerServer\bin\Debug\net6.0\ServerServer.deps.json
+D:\code\visual_studio\c#\ServerServer\bin\Debug\net6.0\ServerServer.runtimeconfig.json
+D:\code\visual_studio\c#\ServerServer\bin\Debug\net6.0\ServerServer.dll
+D:\code\visual_studio\c#\ServerServer\bin\Debug\net6.0\ServerServer.pdb
+D:\code\visual_studio\c#\ServerServer\obj\Debug\net6.0\ServerServer.csproj.AssemblyReference.cache
+D:\code\visual_studio\c#\ServerServer\obj\Debug\net6.0\ServerServer.GeneratedMSBuildEditorConfig.editorconfig
+D:\code\visual_studio\c#\ServerServer\obj\Debug\net6.0\ServerServer.AssemblyInfoInputs.cache
+D:\code\visual_studio\c#\ServerServer\obj\Debug\net6.0\ServerServer.AssemblyInfo.cs
+D:\code\visual_studio\c#\ServerServer\obj\Debug\net6.0\ServerServer.csproj.CoreCompileInputs.cache
+D:\code\visual_studio\c#\ServerServer\obj\Debug\net6.0\ServerServer.dll
+D:\code\visual_studio\c#\ServerServer\obj\Debug\net6.0\refint\ServerServer.dll
+D:\code\visual_studio\c#\ServerServer\obj\Debug\net6.0\ServerServer.pdb
+D:\code\visual_studio\c#\ServerServer\obj\Debug\net6.0\ServerServer.genruntimeconfig.cache
+D:\code\visual_studio\c#\ServerServer\obj\Debug\net6.0\ref\ServerServer.dll
